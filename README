@@ -1,0 +1,25 @@
+trytond_account_asset_db
+========================
+
+The account_asset_db module of the Tryton application platform. Extends the
+account_asset module with a declining balance method of depreciation.
+
+Installing
+----------
+
+See INSTALL
+
+License
+-------
+
+See LICENSE
+
+Copyright
+---------
+
+See COPYRIGHT
+
+
+For more information please visit the Tryton web site:
+
+  http://www.tryton.org/
