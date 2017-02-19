@@ -2,7 +2,7 @@ Account Asset (Declining Balance Depreciation) Module
 #####################################################
 
 The account_asset_db module extends the account_asset module by adding the
-declining balance depreciation method. of fixed assets.
+declining balance depreciation method of fixed assets.
 
 Asset
 *****
